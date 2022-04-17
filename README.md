@@ -66,16 +66,27 @@ Get schwifty: `dggu_avn1js0upohhg7hb6y7zm0fbzitw9apgzai2snyi3ni39jmb4d4z7dux0cxy
 
 <img height="75px" src="https://infura-ipfs.io/ipfs/QmcUgS4LgPrVbtBoLMJAbrDLokWEDxJt36Uj1NHsReTUHh" alt="QmcUgS4LgPrVbtBoLMJAbrDLokWEDxJt36Uj1NHsReTUHh" title="">
 
+### Challenge 6
+
+#### Hint
+
+See through the matrix.
+
 #### Public Address
 
-[addr_xvk1gn74d54h8crmvv3mvhpqat6nms9j03xf4thgcy6mkl3k3a0dnjvv38zsl0prxqsf5pt7et94hhhj0hkfvfrvzngk0hhst53yh63hasg2mrnm4](https://cardanoscan.io/address/addr_xvk1gn74d54h8crmvv3mvhpqat6nms9j03xf4thgcy6mkl3k3a0dnjvv38zsl0prxqsf5pt7et94hhhj0hkfvfrvzngk0hhst53yh63hasg2mrnm4)
+[addr_xvk1u46ap9zqqhg4tpjc34kmm8t6356x0l9sqw82j0plu905vkkyx7j0jrjzzq2ypx59wlgkyenq39qtjd9srrsvw0r9jtc03a2hdn2g37qtyv9t2](https://cardanoscan.io/address/addr_xvk1u46ap9zqqhg4tpjc34kmm8t6356x0l9sqw82j0plu905vkkyx7j0jrjzzq2ypx59wlgkyenq39qtjd9srrsvw0r9jtc03a2hdn2g37qtyv9t2)
+
+### Challenge 7
+
+#### Hint
+
+You can find us for breakfeast, but you may have to pay...
+
+#### Public Address
 
 ## Support Us
 
 If we can raise at least 10,000 ADA, we can bring some high quality paper wallets into this and extend this hunt into the real world.
-
-### Buy Some Eggs
-https://ada.muesliswap.com/markets/all/token/8b59c28dd174e8f99a9462d7559f9c58f96439d26e257031420eaad3.egg
 
 ### Donate
 Donation address: addr1q80dp67rwk6netw5f9tsjyhppuyylt2hkenx98ypkmujjp58v4ppsp5s57m9023f9wg45u578e0suqwrhc5tudutlg6qvcupxl
