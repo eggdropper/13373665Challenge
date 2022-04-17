@@ -80,7 +80,7 @@ See through the matrix.
 
 #### Hint
 
-You can find us for breakfeast, but you may have to pay...
+You can find us for breakfeast, but you may have to pay... A classic exit through the gift shop.
 
 #### Public Address
 
