@@ -66,6 +66,11 @@ Get schwifty: `dggu_avn1js0upohhg7hb6y7zm0fbzitw9apgzai2snyi3ni39jmb4d4z7dux0cxy
 
 <img height="75px" src="https://infura-ipfs.io/ipfs/QmcUgS4LgPrVbtBoLMJAbrDLokWEDxJt36Uj1NHsReTUHh" alt="QmcUgS4LgPrVbtBoLMJAbrDLokWEDxJt36Uj1NHsReTUHh" title="">
 
+### Public Address
+
+[addr1q88gwhykca7pur5uv65sz7zvnh6umhd6eq2twv0qpqq8drgvqsu03ansqfultfhx8kw34dng2qdc7g0xyu8t4a3ky6lqg9r5jn](https://cardanoscan.io/address/addr1q88gwhykca7pur5uv65sz7zvnh6umhd6eq2twv0qpqq8drgvqsu03ansqfultfhx8kw34dng2qdc7g0xyu8t4a3ky6lqg9r5jn)
+
+
 ### Challenge 6
 
 #### Hint
@@ -80,13 +85,13 @@ See through the matrix.
 
 #### Hint
 
-You can find us for breakfeast, but you may have to pay... A classic exit through the gift shop.
+We're both breakfeast items, but you may want to buy more than just a dozen... A classic exit through the gift shop.
 
 #### Public Address
 
 ## Support Us
 
-If we can raise at least 10,000 ADA, we can bring some high quality paper wallets into this and extend this hunt into the real world.
+If we can raise at least 10,000 ADA, we can bring some high quality paper wallets into this and extend this hunt into the real world. The tools needed for the paper wallets fit into a larger picture, but I figured I'd attempt a creative way to fundraise for it.
 
 ### Donate
 Donation address: addr1q80dp67rwk6netw5f9tsjyhppuyylt2hkenx98ypkmujjp58v4ppsp5s57m9023f9wg45u578e0suqwrhc5tudutlg6qvcupxl
