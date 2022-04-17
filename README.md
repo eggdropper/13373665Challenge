@@ -1,5 +1,10 @@
+
 # 13373665 Challenge
-An easter egg hunt
+<p align="center">
+<img height="100px" src="https://infura-ipfs.io/ipfs/QmNjhxherviDtQJHAb7U3WukJuBseLh3uWiRyBtUeQKQfG" alt="QmNjhxherviDtQJHAb7U3WukJuBseLh3uWiRyBtUeQKQfG" title="">
+</p>
+
+An easter egg hunt.
 
 ## Table of Contents  
 
@@ -9,9 +14,9 @@ An easter egg hunt
 
 ## About
 
-13373665 easter eggs have been minted. Be the first to complete the challenges to unlock the pre-loaded wallets. 
+[13373665 easter eggs have been minted](https://cardanoscan.io/token/8b59c28dd174e8f99a9462d7559f9c58f96439d26e257031420eaad3.egg). Be the first to complete the challenges to unlock the pre-loaded wallets. These puzzles are intended to incentivize a deeper understanding of underyling principles behind crypto.
 
-Proof of Mint: https://cardanoscan.io/token/8b59c28dd174e8f99a9462d7559f9c58f96439d26e257031420eaad3.egg
+Asset: 8b59c28dd174e8f99a9462d7559f9c58f96439d26e257031420eaad3.egg
 
 
 ## Round 1
@@ -38,7 +43,7 @@ You can only see me in the dark: `QmecuFDcnRGKiWymBi8Ccx7SRw4862wS5rHVTySfXL5qvj
 
 #### Hint
 
-Get schqifty: `dggu_avn1js0upohhg7hb6y7zm0fbzitw9apgzai2snyi3ni39jmb4d4z7dux0cxysyiiqkw0z82vuckmnnxbq523son2naq2djpzqww5moau5qapi37xtfpmdyz00xvgpo6ctas4yhz0b3djws38z3i77tjq253cx5wgu8b3`
+Get schwifty: `dggu_avn1js0upohhg7hb6y7zm0fbzitw9apgzai2snyi3ni39jmb4d4z7dux0cxysyiiqkw0z82vuckmnnxbq523son2naq2djpzqww5moau5qapi37xtfpmdyz00xvgpo6ctas4yhz0b3djws38z3i77tjq253cx5wgu8b3`
 
 #### Public Address
 
@@ -47,7 +52,9 @@ Get schqifty: `dggu_avn1js0upohhg7hb6y7zm0fbzitw9apgzai2snyi3ni39jmb4d4z7dux0cxy
 ### Challenge 4
 
 #### Hint
-
+```
+6d 75 66 66 69 6e 20 65 6e 74 65 72 20 6c 75 6e 61 72 20 77 61 72 6d 20 73 75 70 72 65 6d 65 20 61 72 65 6e 61 20 77 65 61 72 20 63 68 65 63 6b 20 74 68 75 6d 62 20 61 6e 74 69 71 75 65 20 76 69 73 75 61 6c 20 76 65 6e 75 65 20 6d 6f 6d 20 62 69 72 74 68 20 70 75 7a 7a 6c 65
+```
 
 #### Public Address
 
@@ -57,13 +64,15 @@ Get schqifty: `dggu_avn1js0upohhg7hb6y7zm0fbzitw9apgzai2snyi3ni39jmb4d4z7dux0cxy
 
 #### Hint
 
+<img height="75px" src="https://infura-ipfs.io/ipfs/QmcUgS4LgPrVbtBoLMJAbrDLokWEDxJt36Uj1NHsReTUHh" alt="QmcUgS4LgPrVbtBoLMJAbrDLokWEDxJt36Uj1NHsReTUHh" title="">
+
 #### Public Address
 
 [addr_xvk1gn74d54h8crmvv3mvhpqat6nms9j03xf4thgcy6mkl3k3a0dnjvv38zsl0prxqsf5pt7et94hhhj0hkfvfrvzngk0hhst53yh63hasg2mrnm4](https://cardanoscan.io/address/addr_xvk1gn74d54h8crmvv3mvhpqat6nms9j03xf4thgcy6mkl3k3a0dnjvv38zsl0prxqsf5pt7et94hhhj0hkfvfrvzngk0hhst53yh63hasg2mrnm4)
 
 ## Support Us
 
-If we can raise at least 10,000 ADA, we can bring paper wallets into this and extend this hunt into the real world.
+If we can raise at least 10,000 ADA, we can bring some high quality paper wallets into this and extend this hunt into the real world.
 
 ### Buy Some Eggs
 https://ada.muesliswap.com/markets/all/token/8b59c28dd174e8f99a9462d7559f9c58f96439d26e257031420eaad3.egg
