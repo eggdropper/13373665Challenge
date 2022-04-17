@@ -16,7 +16,7 @@ An easter egg hunt.
 
 [13373665 easter eggs have been minted](https://cardanoscan.io/token/8b59c28dd174e8f99a9462d7559f9c58f96439d26e257031420eaad3.egg). Be the first to complete the challenges to unlock the pre-loaded wallets. These puzzles are intended to incentivize a deeper understanding of underyling principles behind crypto.
 
-Asset: 8b59c28dd174e8f99a9462d7559f9c58f96439d26e257031420eaad3.egg
+Asset: `8b59c28dd174e8f99a9462d7559f9c58f96439d26e257031420eaad3.egg`
 
 
 ## Round 1
@@ -30,6 +30,8 @@ I am the skewer: `688-513-1932-545-17-695-1681-1473-564-1196-1626-801-714-762-91
 
 [addr1q9cymkw8824gskug2pjvqzukmxsrk9n603vj4maedm05nnzyhsn7ydwf8eadc8kknszkks79ckzm522k8zwtkj4wla6q9s6xj5](https://cardanoscan.io/address/01704dd9c73aaa885b885064c00b96d9a03b167a7c592aefb96edf49cc44bc27e235c93e7adc1ed69c056b43c5c585ba2956389cbb4aaeff74)
 
+Reward: 3 ADA & 366 eggs
+
 ### Challenge 2
 
 #### Hint
@@ -38,6 +40,8 @@ You can only see me in the dark: `QmecuFDcnRGKiWymBi8Ccx7SRw4862wS5rHVTySfXL5qvj
 #### Public Address
 
 [addr1q88gwhykca7pur5uv65sz7zvnh6umhd6eq2twv0qpqq8drgvqsu03ansqfultfhx8kw34dng2qdc7g0xyu8t4a3ky6lqg9r5jn](https://cardanoscan.io/address/addr1q88gwhykca7pur5uv65sz7zvnh6umhd6eq2twv0qpqq8drgvqsu03ansqfultfhx8kw34dng2qdc7g0xyu8t4a3ky6lqg9r5jn)
+
+Reward: 3 ADA & 366 eggs
 
 ### Challenge 3
 
@@ -48,6 +52,8 @@ Get schwifty: `dggu_avn1js0upohhg7hb6y7zm0fbzitw9apgzai2snyi3ni39jmb4d4z7dux0cxy
 #### Public Address
 
 [addr_xvk17gtuasnx0sg0ge5l35jwtmxdtallphmrdplnfl89qckxw90fdcaaknracp3h96cu7leqmhl5yqvr2eju7fr6skrzwaznauq3x4fz9egnlxwa3](https://cardanoscan.io/address/addr_xvk17gtuasnx0sg0ge5l35jwtmxdtallphmrdplnfl89qckxw90fdcaaknracp3h96cu7leqmhl5yqvr2eju7fr6skrzwaznauq3x4fz9egnlxwa3)
+
+Reward: 3 ADA & 366 eggs
 
 ### Challenge 4
 
@@ -60,6 +66,8 @@ Get schwifty: `dggu_avn1js0upohhg7hb6y7zm0fbzitw9apgzai2snyi3ni39jmb4d4z7dux0cxy
 
 [addr_xvk18ttm97x3n20fau6pl8vqf9m7yjdpt7lzydv22jlq2r7nr9tjfr7n67uev9vqkhqesk9hr7tnqeecscnuhhdy35qwqt4xaa7cf9naqhq7evpc4](https://cardanoscan.io/address/addr_xvk18ttm97x3n20fau6pl8vqf9m7yjdpt7lzydv22jlq2r7nr9tjfr7n67uev9vqkhqesk9hr7tnqeecscnuhhdy35qwqt4xaa7cf9naqhq7evpc4)
 
+Reward: 5 ADA & 1337 eggs
+
 ### Challenge 5
 
 #### Hint
@@ -70,6 +78,7 @@ Get schwifty: `dggu_avn1js0upohhg7hb6y7zm0fbzitw9apgzai2snyi3ni39jmb4d4z7dux0cxy
 
 [addr1q88gwhykca7pur5uv65sz7zvnh6umhd6eq2twv0qpqq8drgvqsu03ansqfultfhx8kw34dng2qdc7g0xyu8t4a3ky6lqg9r5jn](https://cardanoscan.io/address/addr1q88gwhykca7pur5uv65sz7zvnh6umhd6eq2twv0qpqq8drgvqsu03ansqfultfhx8kw34dng2qdc7g0xyu8t4a3ky6lqg9r5jn)
 
+Reward: 5 ADA & 1337 eggs
 
 ### Challenge 6
 
@@ -81,6 +90,8 @@ See through the matrix.
 
 [addr_xvk1u46ap9zqqhg4tpjc34kmm8t6356x0l9sqw82j0plu905vkkyx7j0jrjzzq2ypx59wlgkyenq39qtjd9srrsvw0r9jtc03a2hdn2g37qtyv9t2](https://cardanoscan.io/address/addr_xvk1u46ap9zqqhg4tpjc34kmm8t6356x0l9sqw82j0plu905vkkyx7j0jrjzzq2ypx59wlgkyenq39qtjd9srrsvw0r9jtc03a2hdn2g37qtyv9t2)
 
+Reward: 5 ADA & 1337 eggs
+
 ### Challenge 7
 
 #### Hint
@@ -89,9 +100,12 @@ We're both breakfeast items, but you may want to buy more than just a dozen... A
 
 #### Public Address
 
+Reward: -X ADA & 5000 eggs
+
+
 ## Support Us
 
 If we can raise at least 10,000 ADA, we can bring some high quality paper wallets into this and extend this hunt into the real world. The tools needed for the paper wallets fit into a larger picture, but I figured I'd attempt a creative way to fundraise for it.
 
 ### Donate
-Donation address: addr1q80dp67rwk6netw5f9tsjyhppuyylt2hkenx98ypkmujjp58v4ppsp5s57m9023f9wg45u578e0suqwrhc5tudutlg6qvcupxl
+Donation address: `addr1q80dp67rwk6netw5f9tsjyhppuyylt2hkenx98ypkmujjp58v4ppsp5s57m9023f9wg45u578e0suqwrhc5tudutlg6qvcupxl`
