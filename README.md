@@ -28,9 +28,9 @@ I am the skewer: `688-513-1932-545-17-695-1681-1473-564-1196-1626-801-714-762-91
 
 #### Public Address
 
-[addr1q9cymkw8824gskug2pjvqzukmxsrk9n603vj4maedm05nnzyhsn7ydwf8eadc8kknszkks79ckzm522k8zwtkj4wla6q9s6xj5](https://cardanoscan.io/address/01704dd9c73aaa885b885064c00b96d9a03b167a7c592aefb96edf49cc44bc27e235c93e7adc1ed69c056b43c5c585ba2956389cbb4aaeff74)
+[addr1q9cymkw8824gskug2pjvqzukmxsrk9n603vj4maedm05nnzyhsn7ydwf8eadc8kknszkks79ckzm522k8zwtkj4wla6q9s6xj5](https://cardanoscan.io/address/addr1q9cymkw8824gskug2pjvqzukmxsrk9n603vj4maedm05nnzyhsn7ydwf8eadc8kknszkks79ckzm522k8zwtkj4wla6q9s6xj5)
 
-Reward: 3 ADA & 366 eggs
+Reward: 3 ADA & 366 eggs *(Claimed)*
 
 ### Challenge 2
 
@@ -41,7 +41,7 @@ You can only see me in the dark: `QmecuFDcnRGKiWymBi8Ccx7SRw4862wS5rHVTySfXL5qvj
 
 [addr1q88gwhykca7pur5uv65sz7zvnh6umhd6eq2twv0qpqq8drgvqsu03ansqfultfhx8kw34dng2qdc7g0xyu8t4a3ky6lqg9r5jn](https://cardanoscan.io/address/addr1q88gwhykca7pur5uv65sz7zvnh6umhd6eq2twv0qpqq8drgvqsu03ansqfultfhx8kw34dng2qdc7g0xyu8t4a3ky6lqg9r5jn)
 
-Reward: 3 ADA & 366 eggs
+Reward: 3 ADA & 366 eggs *(Claimed)*
 
 ### Challenge 3
 
@@ -51,9 +51,9 @@ Get schwifty: `dggu_avn1js0upohhg7hb6y7zm0fbzitw9apgzai2snyi3ni39jmb4d4z7dux0cxy
 
 #### Public Address
 
-[addr_xvk17gtuasnx0sg0ge5l35jwtmxdtallphmrdplnfl89qckxw90fdcaaknracp3h96cu7leqmhl5yqvr2eju7fr6skrzwaznauq3x4fz9egnlxwa3](https://cardanoscan.io/address/addr_xvk17gtuasnx0sg0ge5l35jwtmxdtallphmrdplnfl89qckxw90fdcaaknracp3h96cu7leqmhl5yqvr2eju7fr6skrzwaznauq3x4fz9egnlxwa3)
+[addr1v8eqwfad3ng6me759lhag2p735y4c902jhmgmmc035kygsg3rjchd](https://cardanoscan.io/address/addr1v8eqwfad3ng6me759lhag2p735y4c902jhmgmmc035kygsg3rjchd)
 
-Reward: 3 ADA & 366 eggs
+Reward: 3 ADA & 366 eggs 
 
 ### Challenge 4
 
@@ -64,9 +64,9 @@ Reward: 3 ADA & 366 eggs
 
 #### Public Address
 
-[addr_xvk18ttm97x3n20fau6pl8vqf9m7yjdpt7lzydv22jlq2r7nr9tjfr7n67uev9vqkhqesk9hr7tnqeecscnuhhdy35qwqt4xaa7cf9naqhq7evpc4](https://cardanoscan.io/address/addr_xvk18ttm97x3n20fau6pl8vqf9m7yjdpt7lzydv22jlq2r7nr9tjfr7n67uev9vqkhqesk9hr7tnqeecscnuhhdy35qwqt4xaa7cf9naqhq7evpc4)
+[addr1vyg49g2ypeyj3vjthkxk34gm753rsfdfqd5s7x7mvd8r44sjmhw6a](https://cardanoscan.io/address/addr1vyg49g2ypeyj3vjthkxk34gm753rsfdfqd5s7x7mvd8r44sjmhw6a)
 
-Reward: 5 ADA & 1337 eggs
+Reward: 5 ADA & 1337 eggs *(Claimed)*
 
 ### Challenge 5
 
@@ -76,9 +76,9 @@ Reward: 5 ADA & 1337 eggs
 
 ### Public Address
 
-[addr1q88gwhykca7pur5uv65sz7zvnh6umhd6eq2twv0qpqq8drgvqsu03ansqfultfhx8kw34dng2qdc7g0xyu8t4a3ky6lqg9r5jn](https://cardanoscan.io/address/addr1q88gwhykca7pur5uv65sz7zvnh6umhd6eq2twv0qpqq8drgvqsu03ansqfultfhx8kw34dng2qdc7g0xyu8t4a3ky6lqg9r5jn)
+[addr1v957qn2vmp0e4fcuhgn0agrpqvkh76jgmaj25ddx8z6m9wqr9mn0v](https://cardanoscan.io/address/addr1v957qn2vmp0e4fcuhgn0agrpqvkh76jgmaj25ddx8z6m9wqr9mn0v)
 
-Reward: 5 ADA & 1337 eggs
+Reward: 10 ADA & 2674 eggs 
 
 ### Challenge 6
 
@@ -88,9 +88,9 @@ See through the matrix.
 
 #### Public Address
 
-[addr_xvk1u46ap9zqqhg4tpjc34kmm8t6356x0l9sqw82j0plu905vkkyx7j0jrjzzq2ypx59wlgkyenq39qtjd9srrsvw0r9jtc03a2hdn2g37qtyv9t2](https://cardanoscan.io/address/addr_xvk1u46ap9zqqhg4tpjc34kmm8t6356x0l9sqw82j0plu905vkkyx7j0jrjzzq2ypx59wlgkyenq39qtjd9srrsvw0r9jtc03a2hdn2g37qtyv9t2)
+[addr1v9ht7ved2a7346rh0gdwteknkcqk8c9dgzyyg463vg2j73qryn9kp](https://cardanoscan.io/address/addr1v9ht7ved2a7346rh0gdwteknkcqk8c9dgzyyg463vg2j73qryn9kp)
 
-Reward: 5 ADA & 1337 eggs
+Reward: 11.344798 ADA & 1337 eggs 
 
 ### Challenge 7
 
